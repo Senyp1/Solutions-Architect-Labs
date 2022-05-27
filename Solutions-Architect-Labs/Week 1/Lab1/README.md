@@ -3,7 +3,9 @@ This Week lab will focus on getting you acquainted with Amazon S3 using the aws 
 # Task 1: Create a S3 bucket using AWS CLI
 
 1. Lauch AWS cloud shell
+2. 
  I was able to lauch the AWS cloud shell successfully
+ 
 2. Create a S3 bucket 
 I created an s3 bucket successfully too, i couldnt create with an upper case name at first, rectified it and successfully created it.
 3. Create a folder in your S3 bucket
