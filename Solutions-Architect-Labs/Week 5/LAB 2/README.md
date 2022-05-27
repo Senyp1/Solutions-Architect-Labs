@@ -3,16 +3,27 @@
 Tasks:
 
 1. Create an Amazon VPC for use with a DB instance
+
 I created an amazon vpc for use with a DB instance
-    Create a VPC with private and public subnets and multiple subnets
+
+  2.  Create a VPC with private and public subnets and multiple subnets
+    
 i created a vpc with privqte and public subnet and multiple subnet, the step was easy for me, because ive done it before
-    Create a VPC security group for a public web server
+
+   3. Create a VPC security group for a public web server
+    
 i created a VPC security group for a public web server
-    Create a VPC security group for a private DB instance
+
+   4. Create a VPC security group for a private DB instance
+    
 I also created a VPC security group for a private DB instance
-    Create a DB subnet group
+
+   5. Create a DB subnet group
+    
 i created a DB subnet group
-    Performn Clean up actions
+
+   6. Performn Clean up actions
+    
 i made sure i performed clean up actions to prevent cost  
 
 
