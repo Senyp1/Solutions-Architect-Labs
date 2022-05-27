@@ -2,10 +2,20 @@
 
 
 1. Create a queue
-i successfully created a queuefo
+
+i created a queue successfully.
+
 2. Send a message
+
+i successfully sent a message 
+
 3. Receive and delete your message
+
+i successfully received and deleted my message
+
 4. Delete your queue
+
+i successfully deleted my queue
 
 
 Guide
