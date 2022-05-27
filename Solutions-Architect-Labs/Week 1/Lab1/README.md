@@ -2,28 +2,36 @@ This Week lab will focus on getting you acquainted with Amazon S3 using the aws 
 
 # Task 1: Create a S3 bucket using AWS CLI
 
-Lauch AWS cloud shell 
+Lauch AWS cloud shell
+
  I was able to lauch the AWS cloud shell successfully
  
   Create a S3 bucket
+  
   I created an s3 bucket successfully too, i couldnt create with an upper case name at first, rectified it and successfully created it.
 
 Create a folder in your S3 bucket
+
 I also created a folder successfully too, I realised i was able to create a folder inside a folder and more.
 
  Upload objects to your S3 bucket
+ 
  I uploaded objects easily
  
 List the object in your S3 bucket
+
 I successfuly listed the objects
 
  Download Object from your S3 bucket
+ 
 i was also able to download objects from my s3 bucket too
 
  Delete object in your s3 bucket
+ 
 I realized i couldnt delete versioned objects except i deleted the versioning first.
 
-8. Delete your S3 bucket
+ Delete your S3 bucket
+
 I emptied the S3 bucket before been able to delete it 
 
 
