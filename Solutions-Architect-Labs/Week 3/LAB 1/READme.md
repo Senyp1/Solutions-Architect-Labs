@@ -3,13 +3,21 @@ Working with IAM management console
 Tasks
 
 1. Login to your root account
+
 i successfully logged into my root account
+
 2. Create an IAM group with S3 read only acess (S3 support).
+
 i also created an IAM group with S3 read only access
+
 3. Create an IAM group with EC2 read only acess (EC2 support)
+
 i created an IAM group with EC2 read only access too
+
 4. Create an IAM group with EC2 full access (EC2 admin)
+
 I also created an IAM group with EC2 full access 
+
 5. Create 3 IAM users and add to the each group above as descibe below:
 
 
@@ -21,9 +29,11 @@ user3     EC2 admin       Full access to Amazon EC2 instances
 i successfully did as stated above, it was an easy process
 
 6. Test your design
+
 it was perfect
 
 7. Perform clean up operations
+
 i cleaned it up
 
 Replicate the process above for  Schulltech organization descrcibed below:
